@@ -2,6 +2,7 @@
 https://www.freecodecamp.org/espanol/learn/2022/responsive-web-design
 Ejercicios básicos de HTML y CSS
 
+Curso1:
 Ejercicio 1:
 CatPhotoApp.html
 
@@ -16,3 +17,8 @@ styles2.css
 Ejercicio 4:
 Formulario.html
 styles3.css
+
+Curso 2:
+Ejercicio 1:
+rothko.html
+styles4.css
