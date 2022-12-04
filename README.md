@@ -22,3 +22,7 @@ Curso 2:
 Ejercicio 1:
 rothko.html
 styles4.css
+
+Ejercicio 2:
+flexbox.html
+styles5.css
