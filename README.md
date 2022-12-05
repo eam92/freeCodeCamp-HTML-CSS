@@ -26,3 +26,7 @@ styles4.css
 Ejercicio 2:
 flexbox.html
 styles5.css
+
+Ejercicio 3:
+etiqueta.html
+styles6.css
