@@ -40,3 +40,9 @@ homenaje.html
 styles8.css
 
 Curso 3:
+Ejercicio 1:
+balance.html
+styles9.css
+
+Ejercicio 2:
+
