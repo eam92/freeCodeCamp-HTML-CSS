@@ -49,5 +49,15 @@ Ejercicio 2:
 picasso.html
 styles10.css
 
+Ejercicio 3:
+piano.html
+styles11.css
+
+Ejercicio 4:
+instrucciones.html
+styles12.css
+
+Curso 4:
+Ejercicio 1:
 
 
