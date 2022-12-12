@@ -44,9 +44,10 @@ Ejercicio 1:
 balance.html
 styles9.css
 
+
 Ejercicio 2:
 picasso.html
 styles10.css
 
-Ejercicio 3:
+
 
