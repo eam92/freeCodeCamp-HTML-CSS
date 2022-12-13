@@ -1,0 +1,44 @@
+header {
+    display: flex;
+      flex: space-between;
+      position: top;
+      top: 0;
+    color: Gold;
+    margin: 20px;
+  }
+  
+img {
+    margin:18px;
+    width:100px;
+  }
+#nav-bar {
+      display: flex;
+      flex: space-between;
+      position: fixed;
+      top: 0;
+    gap: 23px;
+    margin: 10px;
+     
+  }
+  
+  @media only screen and (max-width:750px) {
+    
+  }
+  
+h1 {
+    font-size: 20px;
+    justify-content: center;
+     width:600px;
+    display: flex;
+    color: black;
+  }
+  
+form {
+   justify-content: center;
+     width:600px;
+    display: flex;  
+  }
+  
+body {
+    display: flex;
+  }
