@@ -63,6 +63,9 @@ skyline.html
 styles13.css
 
 Ejercicio 2:
+revista.hmtl
+styles14.css
 
+Ejercicio 3:
 
 
