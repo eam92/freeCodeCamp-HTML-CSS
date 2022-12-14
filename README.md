@@ -77,5 +77,9 @@ noria.html
 styles16.css
 
 Ejercicio 2:
+pinguino.html
+styles17.css
+
+Ejercicio3:
 
 
