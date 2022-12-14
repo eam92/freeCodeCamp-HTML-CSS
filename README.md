@@ -73,5 +73,9 @@ styles15.css
 
 Curso5:
 Ejercicio 1:
+noria.html
+styles16.css
+
+Ejercicio 2:
 
 
